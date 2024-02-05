@@ -1,7 +1,7 @@
-//looping a Triangle
-for (let index = "#"; index.length < 8; index += "#") {
-    console.log(index);   
-}
+// //looping a Triangle
+// for (let index = "#"; index.length < 8; index += "#") {
+//     console.log(index);   
+// }
 //FIZZBUZZ
 for (let i = 0; i <= 100; i++) {
     if (i % 3 == 0) {
